@@ -1,7 +1,7 @@
 # hello-world
 Hi everyone!
 
-My name's Christian. I like doing Arduino and ESP stuff but als computer vision w/ pyhon.
+My name's Christian. I like doing Arduino and ESP stuff but also computer vision w/ pyhon.
 
 Firefighting is my favorite hobby.
 
